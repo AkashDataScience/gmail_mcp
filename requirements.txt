@@ -1,0 +1,22 @@
+# Gmail MCP - AI-Powered Email Assistant
+# Core MCP and async support
+mcp>=1.0.0
+anyio>=4.0.0
+
+# Google APIs and Authentication
+google-auth>=2.0.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.2.0
+google-api-python-client>=2.0.0
+
+# Gemini AI
+google-generativeai>=0.3.0
+
+# Environment and utilities
+python-dotenv>=1.0.0
+
+# Email processing
+email-validator>=2.0.0
+
+# Optional: Enhanced logging and debugging
+rich>=13.0.0
